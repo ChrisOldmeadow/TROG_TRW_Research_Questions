@@ -1,0 +1,8 @@
+<style>
+.reveal .slides section[data-state="title"] {
+  background-image: url(Building_Dusk_Background.jpg);
+  background-size: cover;
+  background-position: center;
+  opacity: 0.2;
+}
+</style>
