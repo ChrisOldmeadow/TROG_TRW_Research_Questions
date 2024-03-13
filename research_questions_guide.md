@@ -31,16 +31,12 @@ output: revealjs::revealjs_presentation
 > - Albert Szent-Györgyi
 
 
-::: incremental
 A well-formulated question is the first step in thinking differently about what we observe
-:::
 
 ## Developing a Research Question {data-background-image="./assets/library.webp" data-background-opacity="0.2"}
-::: incremental
    - Identify a gap: reviewing literature, attending conferences, and engaging with the community.
    - Formulate the question: frameworks like **PICO** (Population, Intervention, Comparator, Outcome) and **FINER** (Feasible, Intersting, Novel, Ethical , Relvent ).
    - Statistical considerations from the start — feasibility of study design, data collection methods, and preliminary data analysis plans.
-:::
 
 ## Crafting Research Questions 
 
@@ -52,42 +48,34 @@ A well-formulated question is the first step in thinking differently about what 
 
 ## Example
 
-::: incremental
 - Bad: Is the new radiotherapy technique beneficial for lung cancer patients?
 
 - Better: Investigating the efficacy of high-precision, image-guided radiotherapy (*Intervention*) in extending survival (*Outcome*) among patients with advanced lung cancer (*Population*) compared to the current standard of care (*Comparator*) over a two-year period (*Time*).
 
-:::
 
 ## The importance of Systematic Review {data-background-image="./assets/lit_review.webp" data-background-opacity="0.2"}
 
 
-::: incremental
 - Foundation for research: lays the groundwork by compiling and analysing all relevant studies on a topic.
 - Identifying gaps: uncovering **research gaps**, which directly informs the development of research objectives.
 - Refining research questions: insights from a systematic review can lead to **refining** the question for **clarity** and **focus**
-:::
 
 
 ## More considerations for good research questions
-::: incremental
    - What is the appropriate stage for evaluation?
    - Can internal validity be achieved?
    - To what extent is external validity (generalisability) achievable?
    - What will your circumstances permit?
    -  What can you afford?
    - What is the best balance between “idea” and “feasibility”? 
-:::
 
 ## Setting Research Objectives
 
-::: incremental
    - Research objectives: Breakdown the research question into smaller, **manageable goals**. 
 
    - Defined using *SMART* criteria: Specific, Measurable, Achievable, Realistic, Time-defined.
    
    - Aim for **clarity** and **specificity** to guide your research direction effectively.
-:::
 
 
 ## Example Research Objectives
